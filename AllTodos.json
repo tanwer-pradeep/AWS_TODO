@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "First Task", "complete": false },
+  { "id": 2, "name": "2nd Task", "complete": false },
+  { "id": 3, "name": "3rd Task", "complete": false },
+  { "id": 4, "name": "4th Task", "complete": true },
+  { "id": 5, "name": "5th Task", "complete": false },
+  { "id": 6, "name": "6th Task", "complete": false },
+  { "id": "8428bad4", "name": "New task", "complete": false }
+]
